@@ -1,0 +1,6 @@
+esto es 
+la historia de felipe
+hablaremos de su idea historica
+estas es una prueba en experimento antes de borrar todo y hacerlo de nuevoo
+esto es lo que se supone que esta en el staging 
+cambié los colores de la letra y algo en el parrafo de css y html
